@@ -46,7 +46,7 @@
                      <graphic>
                         <ImageView fitHeight="75.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@../../../../../../../Desktop/Politecnico/ASMA/alieno.jpg" />
+                              <Image url="@../alieno.jpg" />
                            </image>
                         </ImageView>
                      </graphic>
